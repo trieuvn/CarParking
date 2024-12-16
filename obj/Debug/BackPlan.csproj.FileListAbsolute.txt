@@ -1,0 +1,13 @@
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\bin\Debug\BackPlan.exe.config
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\bin\Debug\BackPlan.exe
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\bin\Debug\BackPlan.pdb
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\obj\Debug\BackPlan.csproj.AssemblyReference.cache
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\obj\Debug\BackPlan.Form1.resources
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\obj\Debug\BackPlan.Properties.Resources.resources
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\obj\Debug\BackPlan.csproj.GenerateResource.cache
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\obj\Debug\BackPlan.csproj.CoreCompileInputs.cache
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\obj\Debug\BackPlan.exe
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\obj\Debug\BackPlan.pdb
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\obj\Debug\BackPlan.Menu.resources
+C:\Users\nguyen hoang phuc\source\repos\BackPlan\obj\Debug\BackPlan.csproj.Up2Date
